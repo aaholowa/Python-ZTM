@@ -1,2 +1,2 @@
 # Python-ZTM
-Simple python projects
+python projects
